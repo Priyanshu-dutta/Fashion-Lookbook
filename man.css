@@ -1,0 +1,197 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+
+}
+.hero{
+    height: 500px;
+    width: 100%;
+    background-image: url("images/mans\ front\ page.avif");
+    background-size: cover;    
+}
+.hero1{
+    display: flex;
+    overflow: auto;
+}
+.cloth{
+    height: 530px;
+    width: 100%;
+    margin: 20px;
+    overflow: auto;
+    flex: 0 0 400px;
+    transition: 0.35s;
+}
+.one{
+    width: 100%;
+    background-image: url("images/Man\ cloth\ 1.avif");
+    background-size: cover;
+    border-radius: 30px;
+}
+.two{
+    width: 100%;
+    background-image: url("images/Man\ cloth\ 2.avif");
+    background-size: cover;
+    border-radius: 30px;
+}
+.three{
+    width: 100%;
+    background-image: url("images/Man\ cloth\ 3.avif");
+    background-size: cover;
+    border-radius: 30px;
+}
+.four{
+    width: 100%;
+    background-image: url("images/Man\ cloth\ 4.avif");
+    background-size: cover;
+    border-radius: 30px;
+}
+.five{
+    width: 100%;
+    background-image: url("images/man\ cloth\ five.avif");
+    background-size: cover;
+    border-radius: 30px;
+}
+.six{
+    width: 100%;
+    background-image: url("images/1761905173_8240716.avif");
+    background-size: cover;
+    border-radius: 30px;
+}
+.seven{
+    width: 100%;
+    background-image: url("images/koreanpant.avif");
+    background-size: cover;
+    border-radius: 30px;
+}
+.eight{
+    width: 100%;
+    background-image: url("images/cargopant.avif");
+    background-size: cover;
+    border-radius: 30px;
+}
+.cloth:hover{
+    cursor: pointer;
+    transform: scale(1.05);
+}
+#h66:hover{
+    text-shadow: 0 0 30px;
+
+}
+#h11{
+    font-size: 32px;
+    text-align: center;
+}
+.men{
+    display: flex;
+    overflow: auto; 
+}
+.hello:hover{
+    cursor: pointer;
+    transform: scale(1.05);
+}
+body{
+    background-color: white;
+}
+.nine{
+    width: 100%;
+    background-image: url("images/winter1.avif");
+    background-size: cover;
+    border-radius: 30px;
+}
+.ten{
+    width: 100%;
+    background-image: url("images/winter2.avif");
+    background-size: cover;
+    border-radius: 30px;
+}
+.eleven{
+    width: 100%;
+    background-image: url("images/winter3.avif");
+    background-size: cover;
+    border-radius: 30px;
+}
+.twelve{
+    width: 100%;
+    background-image: url("images/winter5.avif");
+    background-size: cover;
+    border-radius: 30px;
+}
+.thirteen{
+    width: 100%;
+    background-image: url("images/special1.avif");
+    background-size: cover;
+    border-radius: 30px;
+}
+.fourteen{
+    width: 100%;
+    background-image: url("images/special2.avif");
+    background-size: cover;
+    border-radius: 30px;
+}
+.fifteen{
+    width: 100%;
+    background-image: url("images/special3.avif");
+    background-size: cover;
+    border-radius: 30px;
+}
+.sixteen{
+    width: 100%;
+    background-image: url("images/special4.avif");
+    background-size: cover;
+    border-radius: 30px;
+}
+#h44:hover{
+    text-shadow: 0 0 30px;
+}
+#h22{
+    text-align: center;
+    font-size: 32px;
+
+}
+#h33{
+    text-align: center;
+    font-size: 32px;
+}
+#h55:hover{
+    text-shadow: 0 0 30px;
+}
+#h11,#h22,#h33{
+        margin-top: 40px;
+        margin-bottom: 40px;
+}
+.seventeen{
+    background-image: url("images/\ mens\ seventeen.avif");
+    width: 100%;
+    background-size: cover;
+    border-radius: 30px;
+}
+.eighteen{
+    background-image: url("images/mens\ eighteen.avif");
+    width: 100%;
+    background-size: cover;
+    border-radius: 30px;
+}
+.nineteen{
+    background-image: url("images/mens\ nineteen.avif");
+    width: 100%;
+    background-size: cover;
+    border-radius: 30px;
+}
+.twenty{
+    background-image: url("images/mens\ twenty.avif");
+    width: 100%;
+    background-size: cover;
+    border-radius: 30px;
+}
+#button{
+    height: 50px;
+    width: 50px;
+    color: black;
+    border-radius: 50%;
+    background-color: white;
+    border: 2px solid white;
+    font-size: 20px;
+    margin: 20px;
+    cursor: pointer;
+}
